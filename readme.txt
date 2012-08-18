@@ -13,7 +13,7 @@ Quickly and easily integrate your Topspin Offers into customized, sortable and d
 This plugin allows novice and pro Topspin users alike to quickly and easily create integrated, customized, sortable and dynamically generated stores from their Topspin Offers in a few minutes.  
 
 = Live Examples =
-[AWOLNATION](http://awolnationmusic.com/shop) | [Deep Dark Robot](http://deepdarkrobot.com/store) | [Beastie Boys](http://shop.beastieboys.com) | [SModcast](http://smodcast.com/smerchandise)
+[AWOLNATION](http://awolnationmusic.com/shop) | [Deep Dark Robot](http://deepdarkrobot.com/store) | [Beastie Boys](http://shop.beastieboys.com) | [SModcast](http://smodcast.com/smerchandise) | [Rhett Miller](http://www.rhettmiller.com/store/)
 
 The plugin allows for the creation of any number of individual Store Pages and configurations of Offers based on Offer Types and Tags. Store Pages can be restricted to specific Offer Type(s) and/or Tag(s).  They can then be sorted by Offer Type(s), Tag(s), or Manually using a new drag-and-drop admin interface. 
 
